@@ -26,7 +26,7 @@
     </head>
 
     <body>
-
+      <div class="contentWrap">
         <div class="container">
 
             <div id="top">
@@ -39,6 +39,7 @@
                         <li><a href="buy.php">Buy</a></li>
                         <li><a href="sell.php">Sell</a></li>
                         <li><a href="history.php">History</a></li>
+                        <li><a href="profile.php">Change password</a></li>
                         <li><a href="logout.php"><strong>Log Out</strong></a></li>
                     </ul>
                 <?php endif ?>
